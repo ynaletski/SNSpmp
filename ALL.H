@@ -45,4 +45,5 @@
 #define s_DGM s_PMP
 #endif
 
+#include "md5.h"
 

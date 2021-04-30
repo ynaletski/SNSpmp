@@ -40,7 +40,7 @@ unsigned int INP_inv=0;    // маска инверсии входов
 unsigned int INP_VARi=0;    // состояние дискретных входов
 int  flag_fst_gun=0;
 
-char sw_ver[20]="SNS.03 29 Jun 2016";  // COM0 COM1 COM2 COM3 COM4
+char sw_ver[20]="SNS.04 22 May 2020";  // COM0 COM1 COM2 COM3 COM4
 
 unsigned long ComBaud[5]={9600,9600,9600,19200,115200};
 int Com_lgth[5]={8,8,8,8,8};

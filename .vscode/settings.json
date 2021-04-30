@@ -3,6 +3,8 @@
         "DOS_WINW.C": "cpp",
         "Dos_win.C": "cpp",
         "SNS.C": "cpp",
-        "MMI_NEW.C": "cpp"
+        "MMI_NEW.C": "cpp",
+        "MOD1.C": "cpp",
+        "MD5C.C": "cpp"
     }
 }
